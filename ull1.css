@@ -1,11 +1,8 @@
 body {
-  height: 100%;
-  position: absolute;
-  width: 100%;
   background: #33cccc;
 }
 
-a {
+.cabecera {
   background: #33cccc;
   border-radius: 5px;
   color: #fff;
