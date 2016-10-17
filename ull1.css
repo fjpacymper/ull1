@@ -1,10 +1,10 @@
-body {
+cabecera {
   height: 100%;
   position: absolute;
   width: 100%;
 }
 
-a {
+h1 {
   background: #33cccc;
   border-radius: 5px;
   color: #fff;
